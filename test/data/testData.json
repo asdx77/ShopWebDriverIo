@@ -1,0 +1,14 @@
+{
+   "name" : "Standard",
+   "lastName" : "Universal",
+   "user" : "standard_user",
+   "password" : "secret_sauce",
+   "zipcode" : "3797",
+   "product" : 1,
+   "productName" : "Sauce Labs Backpack",
+   "productDesc" : "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.",
+   "productPrice" : "$29.99",
+   "lokedUser": "locked_out_user",
+   "wrongUser": "wrong_user", 
+   "wrongPass": "wrong_souce"
+}
