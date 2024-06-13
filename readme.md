@@ -17,9 +17,9 @@ To run on headless mode:
 
 go to `playwright.config` and the `capabilitues` section and add:
 
-  'goog:chromeOptions': {
+  `'goog:chromeOptions': {
         args: ['headless', 'disable-gpu']
-    }
+    }`
 
 ## Approach
 
