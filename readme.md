@@ -4,7 +4,7 @@ Clone down or copy this repository. You will need `node` and `npm` installed glo
 
 Installation:
 
-`npm i `
+`npm i`
 
 * Upon first run will need to wait for driver installation. 
 * Must allow network connection if prompted. 
