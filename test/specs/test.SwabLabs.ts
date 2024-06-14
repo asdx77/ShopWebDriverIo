@@ -3,7 +3,7 @@ import CheckoutPage from '../pageobjects/checkout.js'
 import LoginPage from '../pageobjects/login.js'
 import Overview from '../pageobjects/overview.js';
 import ProductsPage from '../pageobjects/products.js'
-import testData from '../data/testData.json' assert { type: "json" };;
+import testData from '../data/testData.json' assert { type: "json" };
 
 describe('Swab Labs', () => {
 
